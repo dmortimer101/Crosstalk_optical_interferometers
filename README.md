@@ -18,7 +18,7 @@ Note these data are of the visibility, not the visibility squared as presented i
 
 ## Usage: 
 
-If this data was helpful for your research, please cite the paper associated with this work, available here: INSERT LINK 
+If this data was helpful for your research, please cite the paper associated with this work, available here: https://doi.org/10.1093/mnras/stac326
 
 ## Contact: 
 
